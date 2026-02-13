@@ -457,9 +457,9 @@ MIT License - See [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**[Your Name]**  
+**CHETHAN K MURTHY**  
 Quantitative Finance Researcher | Computational Finance  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/chethan-k-murthy-37b023319/) | [GitHub](https://github.com/ChethanKMurthy)
 
 *Built for Front Office Quant Strats roles at top-tier investment banks*
 

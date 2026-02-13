@@ -490,4 +490,13 @@ Quantitative Finance Researcher | Computational Finance
 
 ---
 
+
+**VISUAL DEMO**<img width="1512" height="982" alt="Screenshot 2026-02-13 at 6 02 16 PM" src="https://github.com/user-attachments/assets/44881378-2c22-46c1-bde4-58a3bbe75a86" />
+<img width="1512" height="982" alt="Screenshot 2026-02-13 at 6 02 12 PM" src="https://github.com/user-attachments/assets/be8fd6cf-c9e5-45b8-8dbe-73e70e1aabbc" />
+<img width="1512" height="982" alt="Screenshot 2026-02-13 at 6 02 04 PM" src="https://github.com/user-attachments/assets/6527c0a0-a6c7-41da-8ee9-137434eda9e7" />
+<img width="1512" height="982" alt="Screenshot 2026-02-13 at 6 02 01 PM" src="https://github.com/user-attachments/assets/d1ac0a71-2fe0-40af-8bb2-aa094a29f770" />
+<img width="1512" height="982" alt="Screenshot 2026-02-13 at 6 01 39 PM" src="https://github.com/user-attachments/assets/d2f8f1a8-e7d3-4532-9f84-b2d3c108b31c" />
+
+
+
 *Last updated: February 2025*

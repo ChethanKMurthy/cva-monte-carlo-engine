@@ -461,7 +461,7 @@ MIT License - See [LICENSE](LICENSE) file
 Quantitative Finance Researcher | Computational Finance  
 [LinkedIn](https://www.linkedin.com/in/chethan-k-murthy-37b023319/) | [GitHub](https://github.com/ChethanKMurthy)
 
-*Built for Front Office Quant Strats roles at top-tier investment banks*
+*Built for Front Office Quant Strats roles at top-tier investment banks if its a recruiter looking at this - kindly give me a job . *
 
 ---
 
